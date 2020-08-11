@@ -11,7 +11,7 @@ author: "Yi-Hsuan (Andy) Chen, Chia-En (Calvin) Wong"
 <!--more-->
 
 > **Disclaminar:**
-> This mini-review was written as a course project in 2018, which may containe errors and outdated references. 
+> This mini-review was written as a course project in 2018, which may contain errors and outdated references. 
 
 
 
