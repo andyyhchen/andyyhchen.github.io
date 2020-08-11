@@ -42,7 +42,7 @@ kramdown:
   syntax_highlighter: rouge
 
 show_excerpts: true
-
+google_analytics: UA-175222504-1
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
