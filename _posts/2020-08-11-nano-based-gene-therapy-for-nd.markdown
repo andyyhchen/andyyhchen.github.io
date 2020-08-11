@@ -6,7 +6,9 @@ author: "Yi-Hsuan (Andy) Chen, Chia-En (Calvin) Wong"
 
 ---
 
-> I grew a strong interest in nanomedicine in 2018 and took class called **Translational Nanomedicine** with [Dr. Chia-En Wong](https://www.facebook.com/Calvin.C.E.Wong) and we and spent some time researching in this field and compiling this mini-review to document what we've learnt. 
+> I grew a strong interest in nanomedicine in 2018 and took class called **Translational Nanomedicine** with [Dr. Chia-En Wong](https://www.linkedin.com/in/chia-en-calvin-wong-md-40a738181/) and we and spent some time researching in this field and compiling this mini-review to document what we've learnt. 
+
+<!--more-->
 
 > **Disclaminar:**
 > This mini-review was written as a course project in 2018, which may containe errors and outdated references. 
